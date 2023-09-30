@@ -1,2 +1,2 @@
 # flutterDemo
-This is  a project aimed at   learning  and diving through dart all the  way to advanced basics
+This  is a dice application  that one can play on Desktop Mobile apps  or on Chrome
